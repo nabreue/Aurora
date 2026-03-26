@@ -1,7 +1,7 @@
 
 ---
 
-## 📊 Productos Analíticos
+## Productos Analíticos
 
 ### Producto A - Funnel de Conversión Diario
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Despliegue
+## Despliegue
 
 ### Requisitos Previos
 
